@@ -1,9 +1,9 @@
 # Ender 2 Pro v4.2.7 Motherboard Conversion.
 Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does require the purchase of a cable adapter set from TH3dStudio.com and a Creality v4.2.7 Motherboard. 
 ## Creality v4.2.7 Motherboard Link. (This is not a paid endorsement link)
-LINK: https://www.amazon.com/gp/product/B07TMX9WFW
+### LINK: https://www.amazon.com/gp/product/B07TMX9WFW
 ## TH3DStudio Link for Adapter Cable Set. (This is not a paid affiliate link)
-LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable-4-pack/
+### LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable-4-pack/
 1. This adapter kit will make the motors run backwards only on a Creality v4.2.7 motherboard. I have compensated for this in the firmware, and the motors now turn in the proper direction. 
 2. ### If you decide to compile your own firmware, make sure you change the following settings in the firmware:
 3. ### Change #define INVERT_X_DIR false  to  #define INVERT_X_DIR true
