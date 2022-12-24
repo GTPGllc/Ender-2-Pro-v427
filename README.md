@@ -7,9 +7,21 @@ Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does requir
 This adapter kit will make the motors run backwards only on a Creality v4.2.7 motherboard. I have compensated for this in the firmware already and no changes to firmware are necessary, and the motors now turn in the proper direction. 
 ## Specific Firmware Functionality
  1. Cleaner Main Information Screen.
- 2. a
+ 2. Single Language Menu System. (English)
+ 3. Cleaner and more detailed Menu System.
+ 4. Cleaner and better labled Menu System.
+ 5. No automatic timeout and return to main information screen. (Really anoying when you turn away for a second, and it is back on the Main Information Screen, and you have to start again.)
+ 6. You must manually scroll and click to return to previous menus and to the Main Information Screen.
+ 7. Power Loss Recovery. (Off by Default, but can be turn on in the Settings Menu.)
+ 8. Filament Run Out Sensor. (Off by Default, but can be turn on in the Settings Menu.)
+ 9. LCD Assisted Manual 4 Corner Bed Leveling. (Paper method at 4 corners over bed screws, leveling by raising and lowering with bed adjustment wheels)
+ 10. (9)Nine Point LCD Assisted Manual Mesh Bed Leveing. (No need for ABL Probe) Paper method, raising and lower the nozzle with the LCD knob at (9) nine point around the bed to create a mesh, just like an ABL Probe, but none of the waiting, wiring, setup, firmware recompiling, and in my opinion, a simpler way to level the bed.
+ 11. Long File Names Enabled.
+ 12. Scrolling of Longer File Names Enabled.
+ 13. Removal of ABS Preheat, since the Ender 2 Pro cannot print ABS.
+ 14. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c.
 ## If you decide to compile your own firmware, and use the motor adapters listed above, make sure you change the following settings in the firmware in Configuration.h 
-1. ### Change #define INVERT_X_DIR  false  to  #define INVERT_X_DIR true
+1. ### Change #define INVERT_X_DIR false  to  #define INVERT_X_DIR true
 2. ### Change #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
 3. ### Change #define INVERT_Z_DIR true   to  #define INVERT_Z_DIR false
 4. ### Change #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
