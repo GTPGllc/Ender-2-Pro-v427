@@ -1,5 +1,5 @@
-# DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for damages, injuries, or death. Proceed at your own risk!
-# Ender 2 Pro v4.2.7 Motherboard Conversion.
+## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for damages, injuries, or death. Proceed at your own risk!
+## Ender 2 Pro v4.2.7 Motherboard Conversion.
 Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does require the purchase of a cable adapter set from TH3dStudio.com and a Creality v4.2.7 Motherboard. 
 ## Creality v4.2.7 Motherboard Link. (This is not a paid affiliate link)
 ### LINK: https://www.amazon.com/gp/product/B07TMX9WFW
