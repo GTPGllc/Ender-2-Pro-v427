@@ -5,10 +5,10 @@ LINK: https://www.amazon.com/gp/product/B07TMX9WFW
 ## TH3DStudio Link for Adapter Cable Set. (This is not a paid affiliate link)
 LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable-4-pack/
 ## Machine and Wiring Safety: All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and cripping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
-1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
-2. Wire Ferrule Kit Link: https://amzn.to/3FpvCqI (This is an affiliate link that helps out the BV3D You-Tube Channel)
-3. Wire Strippers (If you need a god one): https://amzn.to/3bF8vv6 (This is an affiliate link that helps out the BV3D You-Tube Channel) 
-### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links.
+### 1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
+### 2. Wire Ferrule Kit Link: https://amzn.to/3FpvCqI (This is an affiliate link that helps out the BV3D You-Tube Channel)
+### 3. Wire Strippers (If you need a god one): https://amzn.to/3bF8vv6 (This is an affiliate link that helps out the BV3D You-Tube Channel) 
+### 4. Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links.
 # Instructions:
 1. Raise X Axis gantry all the way to top of the Z Axis. (This will make it easier to access the bottom of the machine.)
 2. Power off the machine and unplug Ender 2 Pro, and remove power cable. Set it aside for now.
