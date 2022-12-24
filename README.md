@@ -7,7 +7,7 @@ Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does requir
 This adapter kit will make the motors run backwards only on a Creality v4.2.7 motherboard. I have compensated for this in the firmware already and no changes to firmware are necessary, and the motors now turn in the proper direction. 
 ## Specific Firmware Functionality
  1. Cleaner Main Information Screen.
- 2. Single Language Menu System. (English)
+ 2. Single Language Menu System.
  3. Cleaner and more detailed Menu System.
  4. Cleaner and better labled Menu System.
  5. No automatic timeout and return to main information screen. (Really anoying when you turn away for a second, and it is back on the Main Information Screen, and you have to start again.)
