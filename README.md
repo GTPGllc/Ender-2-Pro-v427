@@ -54,4 +54,4 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 34. 
 35. a
 36. a
-## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for damages, injuries, or death. Proceed at your own risk!
+## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
