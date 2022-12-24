@@ -17,7 +17,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 ### 2. Wire Ferrule Kit Link: https://amzn.to/3FpvCqI (This is an affiliate link that helps out the BV3D You-Tube Channel)
 ### 3. Wire Strippers (If you need a god one): https://amzn.to/3bF8vv6 (This is an affiliate link that helps out the BV3D You-Tube Channel) 
 # Instructions: (Note: If you are able, use a static ground strap on your wrist while woring on the motherboard removal/installation.)
-### (If I have missed any steps in the instalation instructions, please feel free to start an issue and I will ad it to the instructions as soon as I get it.)
+### (If I have missed any steps in the removal/instalation instructions, please feel free to start an issue and I will add it to the removal/installation instructions as soon as I get it.)
 1. Raise X Axis gantry all the way to top of the Z Axis. (This will make it easier to access the bottom of the machine.)
 2. Power off the machine and unplug the Ender 2 Pro, and remove power cable. Set it aside for now.
 3. Tip the machine onto it's right side, the side where the plug goes and where the power switch is, and with the X Gantry End holding up the other side of the machine. This makes it easier to work on. Use a filament box with filament in it under the machine end. This will help balance the machine and raise the machine end up so it makes it easier to get at the screws.
