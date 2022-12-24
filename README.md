@@ -15,7 +15,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
  7. Power Loss Recovery. (Off by Default, but can be turned on in the Settings Menu.)
  8. Filament Run Out Sensor. (Off by Default, but can be turned on in the Settings Menu.)
  9. LCD Assisted Manual 4 Corner Bed Leveling. (Paper method at 4 corners over bed screws, leveling by raising and lowering with bed adjustment wheels)
- 10. (9)Nine Point LCD Assisted Manual Mesh Bed Leveing. (No need for ABL Probe) Paper method, raising and lower the nozzle with the LCD knob at (9) nine point around the bed to create a mesh, just like an ABL Probe, but none of the waiting, wiring, setup, firmware recompiling, and in my opinion, a simpler way to level the bed.
+ 10. (9)Nine Point LCD Assisted Manual Mesh Bed Leveing. (No need for ABL Probe) Paper method, raising and lower the nozzle with the LCD knob at (9) nine points around the bed to create a mesh, just like an ABL Probe, but none of the waiting, wiring, setup, firmware recompiling, and in my opinion, a simpler way to level the bed.
  11. Long File Names Enabled.
  12. Scrolling of Longer File Names Enabled.
  13. Removal of ABS Preheat, since the Ender 2 Pro cannot print ABS.
