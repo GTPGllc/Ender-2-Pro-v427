@@ -10,7 +10,8 @@ LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable
 4. ### Change #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
 5. ### Change #define INVERT_Z_DIR true   to  #define INVERT_Z_DIR false
 6. ### Change #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
-## Machine Wiring Safety: All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and cripping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
+### Machine Wiring Safety: 
+## All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and cripping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
 ### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links.
 ### 1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
 ### 2. Wire Ferrule Kit Link: https://amzn.to/3FpvCqI (This is an affiliate link that helps out the BV3D You-Tube Channel)
