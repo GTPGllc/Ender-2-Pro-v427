@@ -20,6 +20,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
  12. Scrolling of Longer File Names Enabled.
  13. Removal of ABS Preheat, since the Ender 2 Pro cannot print ABS.
  14. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c.
+ 15. Thermal Runaway Protection Enabled.
 ## If you decide to compile your own firmware, and use the motor adapters listed above, make sure you change the following settings in the firmware in Configuration.h 
 1. ### Change #define INVERT_X_DIR false  to  #define INVERT_X_DIR true
 2. ### Change #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
