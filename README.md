@@ -36,7 +36,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 ### (If I have missed any steps in the removal/installation instructions, please feel free to start an issue and I will add it to the removal/installation instructions as soon as I get it.)
 1. Raise X Axis gantry all the way to top of the Z Axis. (This will make it easier to access the bottom of the machine.)
 2. Power off the machine and unplug the Ender 2 Pro, and remove power cable. Set it aside for now.
-3. Tip the machine onto its right side, the side where the plug goes and where the power switch is, and with the X Gantry End holding up the other side of the machine. This makes it easier to work on. Use a filament box with filament in it under the machine end. This will help balance the machine and raise the machine end up so it makes it easier to get at the screws.
+3. Tip the machine onto its right side, the side where the plug goes and where the power switch is, and with the X Gantry End holding up the other side of the machine. This makes it easier to work on. Use a filament box with filament in it under the machine end. This will help balance the machine and raise the machine end up so it makes it easier to get at the screws on the bottom cover and work inside the machine.
 4. Remove the two front rubber feet. (There are two screws hidden under them)
 5. Remove the 8 screws from the bottom cover and set them aside. (Have a bowl or magnetic dish handy to hold screws and loose parts)
 6. When the cover comes loose, slowly pull it away, and disconnect the case fan wire coupler for the case fan. Set the cover aside.
