@@ -4,6 +4,11 @@ Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does requir
 LINK: https://www.amazon.com/gp/product/B07TMX9WFW
 ## TH3DStudio Link for Adapter Cable Set. (This is not a paid affiliate link)
 LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable-4-pack/
+1. This adapter kit will make the motors run backwards. I have compensated for this in the firmware, and the motors now trun in the proper direction. If you decide to compile your own firmware, make sure you change the following settings in the firmware:
+2. ### #define INVERT_X_DIR false  to  #define INVERT_X_DIR true
+3. ### #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
+4. ### #define INVERT_Z_DIR true   to  #define INVERT_Z_DIR false
+5. ### #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
 ## Machine Wiring Safety: All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and cripping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
 ### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links.
 ### 1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
@@ -14,6 +19,6 @@ LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable
 2. Power off the machine and unplug Ender 2 Pro, and remove power cable. Set it aside for now.
 3. Tip the machine onto it's right side, with the X Gantry holding up the back end of the machine. This makes it easier to work on. Use a filament box with filament in it under the machine end. This will help balance the machine and raise the machine end up so it makes it easier to get at the screws.
 4. Remove the two front rubber feet. (There are two screws hidden under them)
-5. Remove the 8 screws and set them aside. (Have a bowl or magnetic dish handy to hold screws and loose parts)
+5. Remove the 8 screws from the bottom cover and set them aside. (Have a bowl or magnetic dish handy to hold screws and loose parts)
 6. Take a picture of the old wiring placements. You can use this as a reference for reassembly. You can also use the v4.2.7 Wiring Layout PDF file for reference when reattaching all of the connecters and plugs.
 7. 
