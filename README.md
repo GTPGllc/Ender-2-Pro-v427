@@ -5,11 +5,11 @@ Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does requir
 ## TH3DStudio Link for Adapter Cable Set. (This is not a paid affiliate link)
 ### LINK: https://www.th3dstudio.com/product/ender-2-pro-stepper-motor-adapter-cable-4-pack/
 This adapter kit will make the motors run backwards only on a Creality v4.2.7 motherboard. I have compensated for this in the firmware already and no changes to firmware are necessary, and the motors now turn in the proper direction. 
-1. ### If you decide to compile your own firmware, make sure you change the following settings in the firmware in Configuration.h 
-2. ### Change #define INVERT_X_DIR false  to  #define INVERT_X_DIR true
-3. ### Change #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
-4. ### Change #define INVERT_Z_DIR true   to  #define INVERT_Z_DIR false
-5. ### Change #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
+## If you decide to compile your own firmware, make sure you change the following settings in the firmware in Configuration.h 
+1. ### Change #define INVERT_X_DIR false  to  #define INVERT_X_DIR true
+2. ### Change #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
+3. ### Change #define INVERT_Z_DIR true   to  #define INVERT_Z_DIR false
+4. ### Change #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
 # Machine Wiring Safety: 
 ## All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and cripping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
 ### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links.
