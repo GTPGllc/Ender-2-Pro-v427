@@ -26,7 +26,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 2. ### Change #define INVERT_Y_DIR false  to  #define INVERT_Y_DIR true
 3. ### Change #define INVERT_Z_DIR true   to  #define INVERT_Z_DIR false
 4. ### Change #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
-# Machine Wiring Safety: (If you are not sure what you are doing, ask someone who does.)
+# Machine Wiring Safety: (If you are not sure what you are doing, ask someone who does know what they are doing.)
 ## All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and crimping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
 ### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links.
 ### 1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
