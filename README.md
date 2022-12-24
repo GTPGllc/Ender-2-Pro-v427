@@ -40,7 +40,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 4. Remove the two front rubber feet. (There are two screws hidden under them)
 5. Remove the 8 screws from the bottom cover and set them aside. (Have a bowl or magnetic dish handy to hold screws and loose parts)
 6. When the cover comes loose, slowly pull it away, and disconnect the case fan wire coupler for the case fan. Set the cover aside.
-7. Take a picture of the old wiring placements. You can use this as a reference for reassembly. You can also use the v4.2.7 Wiring Layout PDF file in this repository for reference when reattaching all of the connecters and plugs. The PDF file has a picture of the Creality
+7. Take a few pictures of the old wiring placements. You can use these as a reference for reassembly. You can also use the v4.2.7 Wiring Layout PDF file in this repository for reference when reattaching all of the connecters and plugs. The PDF file has a picture of the Creality
 
 8. Unscrew the main power to motherboard leads. (See v4.2.7 Wiring Layout PDF)
 9. Unscrew all other terminal screws and pull wiring from terminal blocks.
