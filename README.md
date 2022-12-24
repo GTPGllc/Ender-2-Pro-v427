@@ -16,19 +16,22 @@ Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does requir
 ### 1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
 ### 2. Wire Ferrule Kit Link: https://amzn.to/3FpvCqI (This is an affiliate link that helps out the BV3D You-Tube Channel)
 ### 3. Wire Strippers (If you need a god one): https://amzn.to/3bF8vv6 (This is an affiliate link that helps out the BV3D You-Tube Channel) 
-# Instructions: 
+# Instructions: (Note: If you are able, use a static ground strap on your wrist while woring on the motherboard removal/installation.)
 ### (If I have missed any steps in the instalation instructions, please feel free to start an issue and I will ad it to the instructions as soon as I get it.)
 1. Raise X Axis gantry all the way to top of the Z Axis. (This will make it easier to access the bottom of the machine.)
 2. Power off the machine and unplug the Ender 2 Pro, and remove power cable. Set it aside for now.
 3. Tip the machine onto it's right side, with the X Gantry End holding up the other side of the machine. This makes it easier to work on. Use a filament box with filament in it under the machine end. This will help balance the machine and raise the machine end up so it makes it easier to get at the screws.
 4. Remove the two front rubber feet. (There are two screws hidden under them)
 5. Remove the 8 screws from the bottom cover and set them aside. (Have a bowl or magnetic dish handy to hold screws and loose parts)
-6. Take a picture of the old wiring placements. You can use this as a reference for reassembly. You can also use the v4.2.7 Wiring Layout PDF file on this repository for reference when reattaching all of the connecters and plugs.
-7. Unscrew the main power to motherboard leads. (See v4.2.7 Wiring Layout PDF)
-8. Unscrew all other terminal screws and pull wiring from terminal blocks.
-9. Carefully remove hot glue that is holding all plugs in their sockets. Do Not Pull On Wire To Remove Plugs. Use a fine tipped set of needle nose pliers to pull the plugs out. Pulling on the wires may damage the connections, and/or cause a short in that plug.
-10. Uncrew the ground wires from the top of the brass post that is screwed into the motherboard, and gently remove the brass grounding post by unscrewing it.
-11. Unscrew the 3 remaining screws on the motherboard, and remove the ribbon cable for the LCD controller from it's socket. (You again may have to remove hot glue holding it in place.)
-12. Carefully remove the old OEM motherboard, and set it aside. After installing the new Creality v4.2.7 Motherboard, place the old OEM motherboard in the silver anti-static bad for storage.
-13. 
-14. 
+6. When the cover cmoes loose, slowly pull it away, and disconnect the case fan wire coupler for the case fan. Set the cover aside.
+7. Take a picture of the old wiring placements. You can use this as a reference for reassembly. You can also use the v4.2.7 Wiring Layout PDF file on this repository for reference when reattaching all of the connecters and plugs. The PDF file has a picture of the Creality
+8. Unscrew the main power to motherboard leads. (See v4.2.7 Wiring Layout PDF)
+9. Unscrew all other terminal screws and pull wiring from terminal blocks.
+10. Carefully remove hot glue with small fine tipped pliers that is holding all plugs in their sockets. Do Not Pull On Wire To Remove Plugs. Use a fine tipped set of needle nose pliers to pull the plugs out. Pulling on the wires may damage the connections, and/or cause a short in that plug.
+11. Uncrew the ground wires from the top of the brass post that is screwed into the motherboard, and gently remove the brass grounding post by unscrewing it.
+12. Unscrew the 3 remaining screws on the motherboard, and remove the ribbon cable for the LCD controller from it's socket. (You again may have to remove hot glue holding it in place.)
+13. Carefully remove the old OEM motherboard, and set it aside. After installing the new Creality v4.2.7 Motherboard, place the old OEM motherboard in the silver anti-static bad for storage.
+14. Remove the new Creality v4.2.7 motherboard from the silver anti-static bag. (Use it to store the old OEM motherboard in the box the new one came in.)
+15. Slide the new Crality v4.2.7 motherboard into the case and make sure the micro SD card holder and micro USB port go into the stock case holes for them. You will know when you have it placed corectly when all the screw holes in the motherboard line up with screw holes in the case.
+16. Using the brass grounding post, screw that in the hole between the X and Y motor ports. DO NOT OVER TIGHTEN, YOU CAN DAMAGE THE MOTHERBOARD!
+17. 
