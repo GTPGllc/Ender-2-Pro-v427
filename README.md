@@ -73,6 +73,20 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 36. Once the printer boots, if there is a "EEPROM ERROR, Rotate the knob to "Ignore" and click the knob. You should hear a beep.
 37. Use the knob and rotate to top, click knob, rotate knob back to the main menu. Rotate knob down to store settings.
 38. Power off the printer.
-39. Copy new firmware "
+39. Copy new firmware "firmware-v4.2.7-Ender-2-Pro-20221223-171348.bin" from folder "New Firmware Ender 2 Pro v4.2.7" to a Micro SD Card.
+40. Insert Micro Sd Card into Sd card slot, and make sure it is locked in place.
+41. Power on printer, and wait for the firmware to update. Once the update finishes, the first boot screen should appear as: HELLO and below that, LOADING......
+42. The Second Screen should say "Gorilla Tech" with the version and website github.com/GTPGllc.
+43. If you do not get an EEPROM ERROR, then you are all set.
+44. Now, click knob to "Move, Homne, Level", click knob.
+45. Select Home X Y Z
+46. Wait for printer to home.
+47. Go back to Main Menu.
+48. Click on 4 Corner Bed Leveling.
+49. Follow the on screen prompts. Use a piece of paper to slide back and forth adjusting the height with the Bed Adjustment wheels.
+50. Once 4 corner leveling is done, move to Mesh Bed Leveling. The machine will auto home and go to the first point of nine.
+51. Make sure that there is a piece of paper under the nozzle, and start by clicking the know. The head will move to the first position. Use the paper to slide back and forth as you rotate the knob to either up or down to catch the paper. Once you are satisfied with the drag on the paper, click next. Repeat this process with all 9 points. Once you finish with the 9th point, the screen will say "Leveling Complete".
+52. Got to main menu, and select "save settings". Now it is time for a test print.
+53. From this point on, your on your own. Should you need help, feel free to open either a discussion or an issue, and I will be happy to help.
 
 ## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
