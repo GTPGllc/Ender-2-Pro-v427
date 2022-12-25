@@ -77,7 +77,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 40. Insert Micro Sd Card into Sd card slot, and make sure it is locked in place.
 41. Power on printer, and wait for the firmware to update. Once the update finishes, the first boot screen should appear as: HELLO and below that, LOADING......
 42. The Second Screen should say "Gorilla Tech" with the version and website github.com/GTPGllc.
-43. If you do not get an EEPROM ERROR, then you are all set.
+43. If you do not get an EEPROM ERROR, then you are all set. If you do Get an EEPROM Error, then repeat steps 35, 36, 37, 38, 39, 40, 41. You will have to change the firmware file name to make it newer than the first install. The current firmware.bin file is called "firmware-v4.2.7-Ender-2-Pro-20221223-171348.bin", simpley make it newer by adding time to the end of the file name. Current firmware time stamp is 171348, meaning it was 5:13pm and 48 seconds. So we are just going to add 12 seconds to the time stamp in the file name. So the new firmware.bin file will look like this: "firmware-v4.2.7-Ender-2-Pro-20221223-171400.bin", and that will give it the ability to be reloaded as newer firmware. This should clear up the EEPROM ERROR. If you still have issues, please feel free to use the issue or discussion tabs.
 44. Now, click knob to "Move, Homne, Level", click knob.
 45. Select Home X Y Z
 46. Wait for printer to home.
