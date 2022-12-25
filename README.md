@@ -68,7 +68,11 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 31. Attach the plug from the bottom case cover to the female plug that is shared with the hot end fan, it is keyed, and can only go in one way.
 32. Make sure none of the wires are pinched when you put the bottom case cover back in place. The two front rubber fee squares should be on the right. Two bottom case screws on the bottom row, three screws in the middle row, and three screws on the top row.
 33. Look at the two rubber blocks you removed, there should be some adhesive on one side, that is the side that goes back on the machine in the squares on the bottom cover. Press firmly and they should stay in place. DO NOT SUPERGLUE THEM ON if they do not stay in place. Clean the glue residue off the rubber blacks and in the squares on the bottom cover. Use very thin clear double sided tape to adhere the rubber blocks back in place if need be.
-34. 
-35. a
-36. a
+34. Okay. Now the easy part. Plug the power cord into the printer, and then connect to power.
+35. Turn the printer on. If there is no smoke, or fire, you did it right. (Kidding)
+36. Once the printer boots, if there is a "EEPROM ERROR, Rotate the knob to "Ignore" and click the knob. You should hear a beep.
+37. Use the knob and rotate to top, click knob, rotate knob back to the main menu. Rotate knob down to store settings.
+38. Power off the printer.
+39. Copy new firmware "
+
 ## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
