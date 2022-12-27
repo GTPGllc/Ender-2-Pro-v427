@@ -1,4 +1,3 @@
-
 ## Ender 2 Pro v4.2.7 Motherboard Conversion.
 Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does require the purchase of a cable adapter set from TH3dStudio.com and a Creality v4.2.7 Motherboard with a STM32F103RET6 CPU. If the Creality v4.2.7 Motherboard comes with another CPU other than a STM32F103RET6, the firmware provided in this repository will NOT work. You have been warned! 
 ## Creality v4.2.7 Motherboard Link. (This is not a paid affiliate link)
