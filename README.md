@@ -73,7 +73,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 35. Insert Micro Sd Card into Sd card slot, and make sure it is locked in place.
 36. Okay. Now the easy part. Plug the power cord into the printer, and then connect to power.
 37. Turn the printer on. If there is no smoke, or fire, you did it right. (Kidding)
-38. Once the printer boots, if there is a "EEPROM ERROR, Rotate the knob to "Ignore" and click the knob. You might hear a beep.
+38. Once the printer boots, if there is a "EEPROM ERROR, Rotate the knob to "Ignore" or "Reset" and click the knob. You might hear a beep.
 39. Push the knob and the main menu will appear, rotate down to select System Settings, then push the knob, and rotate down to select Advanced Settings, rotate the knob to Initilize or Reset EEPROM. This will do a memory clear from the previous firmware settings that were preinstalled on the v4.2.7 motherboard. Rotate back to the top, select the top option, and push the knob again, this should bring you to the settings menu, rotate the knob down to "save settings", and push the knob. You should hear a beep, and that confirms that the settings were cleared.
 40. Power off the printer.
 41. Copy new firmware "firmware-v4.2.7-Ender-2-Pro-20221223-171348.bin" from folder "New Firmware Ender 2 Pro v4.2.7" to a Micro SD Card.
