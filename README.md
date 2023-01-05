@@ -29,7 +29,7 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 4. ### Change #define INVERT_E0_DIR false  to  #define INVERT_E0_DIR true
 # Machine Wiring Safety: (If you are not sure what you are doing, ask someone who does know what they are doing.)
 ## All screw terminal wiring connections should have the tinned ends snipped off and replaced with wire ferrules. You can purchase a wire ferrule and crimping tool kit at the links below. This is the kit I used, and the wire strippers. If you are not sure how to use the kit, see video link below.
-### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links. However, if you wish to supposrt us and our work here, use Cash App, Cashtag: $The300lbGorilla
+### Disclaimer: GTPGllc (Gorilla Tech Programming Group, LLC) does NOT get paid or receive products for links to the BV3D You-Tube Channel, or BV3D's affiliate links. However, if you wish to support us and our work here, use Cash App, Cashtag: $The300lbGorilla
 ### 1. Wire Ferrule Installation Video Link: https://www.youtube.com/watch?v=8F4zQVzDRww   BV3D Channel on You-Tube
 ### 2. Wire Ferrule Kit Link: https://amzn.to/3FpvCqI (This is an affiliate link that helps out the BV3D You-Tube Channel)
 ### 3. Wire Strippers (If you need a good one): https://amzn.to/3bF8vv6 (This is an affiliate link that helps out the BV3D You-Tube Channel) 
@@ -92,5 +92,5 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 55. From this point on, your on your own. Should you need help, feel free to open either a discussion or an issue, and I will be happy to help.
 
 ## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
-# Sponsorship of this repository: 
+# Sponsorship for this repository: 
 ##  Cash App, using the cashtag: $The300lbGorilla
