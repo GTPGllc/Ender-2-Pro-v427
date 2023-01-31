@@ -91,6 +91,6 @@ This adapter kit will make the motors run backwards only on a Creality v4.2.7 mo
 54. Got to main menu, and select "save settings". Now it is time for a test print.
 55. From this point on, your on your own. Should you need help, feel free to open either a discussion or an issue, and I will be happy to help.
 
-## DISCLAIMER: Gorilla Tech Programming Group,LLC takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
+## DISCLAIMER: The 300lb Gorilla takes no responsibility for monetary loss or damages, injury, or death in the process of doing this motherboard conversion. If you do this conversion, you do so at your own risk, and will not hold Gorilla Tech Programming Group,LLC liable for monetary loss or damages, injuries, or death. Proceed at your own risk!
 # Sponsorship for this repository: 
 ##  Cash App, using the cashtag: $The300lbGorilla
