@@ -1,4 +1,4 @@
-## Updated so the nozzle is pretty close to be over the bed leveling wheel.
+## Updated so the nozzle is pretty close to being over the bed leveling wheel.
 ## Updated for HOST ACTION COMMANDS
 ## Ender 2 Pro v4.2.7 Motherboard Conversion.. This firmware is designed to be used with a Stock Hot End at no more than 220c and the Stock Heated bed at no more than 65c. If you change the Hot End out for a Higher temp one, then it is suggested that you attach an external Meanwell Power supply rated at 350watts and 15amps. The OEM PSU is not rated for higher temps and can burn out. You have been warned.
 Converting an Ender 2 Pro to use a Creality v4.2.7 Motherboard. This does require the purchase of a cable adapter set from TH3dStudio.com or an Ender 3 Pro Motor Cable Set, and a Creality v4.2.7 Motherboard with a STM32F103RET6 CPU. If the Creality v4.2.7 Motherboard comes with another CPU other than a STM32F103RET6, the firmware provided in this repository will NOT work. You have been warned! 
